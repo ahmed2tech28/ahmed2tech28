@@ -20,7 +20,7 @@ I specialize in **MongoDB, Express.js, React.js, and Node.js**, building high-pe
 ---
 
 ### 🔗 **Let's Connect!**
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-ali-7532a82b1/)
 - 📧 Email: ahmedalirana.dev@gmail.com  
 
 ---
