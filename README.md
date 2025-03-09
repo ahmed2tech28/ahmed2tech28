@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Muhammad Ahmed Ali  
 
-<!--
-**ahmed2tech28/ahmed2tech28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **MERN Stack Developer | 1 Year Experience**  
 
-Here are some ideas to get you started:
+I specialize in **MongoDB, Express.js, React.js, and Node.js**, building high-performance web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 **Tech Stack**
+- 💻 **Frontend**: React.js, Next.js, Tailwind CSS, Bootstrap  
+- 🔧 **Backend**: Node.js, Express.js, Nest js, 
+- 🗄️ **Database**: MongoDB, PostgreSQL  
+- 🔍 **Tools & Other**: Git, GitHub, Docker, Postman  
+
+---
+
+### 📊 **GitHub Stats**
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed2tech28&show_icons=true&theme=tokyonight)  
+
+---
+
+### 🔗 **Let's Connect!**
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 Email: ahmedalirana.dev@gmail.com  
+
+---
+
+🚀 **Always excited to build, learn, and collaborate!**  
